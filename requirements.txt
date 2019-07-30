@@ -1,0 +1,4 @@
+jupyterlab
+BeautifulSoup4
+selenium
+soupsieve
